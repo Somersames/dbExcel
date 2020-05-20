@@ -20,6 +20,12 @@ wb.save('/Users/admin/Desktop/person/' + db + '.xlsx')
 
 ## Excel
 生成后的Excel如下：
-![](./pic/db_sheet.png)
-![](./pic/db1.png)
-![](./pic/db2.png)
+概览页，支持超链接：
+![](https://github.com/Somersames/dbExcel/blob/master/pic/db_sheet.png)
+
+详情页：
+![](https://github.com/Somersames/dbExcel/blob/master/pic/db1.png)
+
+
+详情页：
+![](https://github.com/Somersames/dbExcel/blob/master/pic/db2.png)
