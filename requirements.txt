@@ -1,5 +1,5 @@
 cffi==1.14.0
-cryptography==2.9.2
+cryptography==3.2
 et-xmlfile==1.0.1
 jdcal==1.4.1
 openpyxl==3.0.3
